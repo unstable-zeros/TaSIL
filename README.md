@@ -28,9 +28,11 @@
 
 Inside of the docker container use `train.py` to do training runs. For instance
 
- - `python train.py --environment gym/Ant-v3 --train\_trajs 20 --epochs 4500'
+ - `python train.py --environment gym/Ant-v3 --train\_trajs 20 --epochs 4500`
     
     For a OpenAI gym environment.
- - `python train.py --environment dummy2 --train\_trajs 20 --epochs 4500'
+ - `python train.py --environment dummy2 --train\_trajs 20 --epochs 4500`
     
     For a synthetic exponentially stable system.
+
+For a complete description of all available options, please see `train.py`
