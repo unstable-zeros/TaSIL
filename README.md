@@ -1,3 +1,5 @@
+Code needed to reproduce results from [TaSIL: Taylor Series Imitation Learning](https://arxiv.org/abs/2205.14812) by Daniel Pfrommer, Thomas T.C.K. Zhang, Stephen Tu, and Nikolai Matni.
+
 # Setup
 
  1. Install Docker
